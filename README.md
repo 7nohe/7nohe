@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1199](https://github.com/vuejs/vitepress/pull/1199) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-2. 🎉 Merged PR [#1](https://github.com/7nohe/react-realtime-cursor/pull/1) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
-3. 💪 Opened PR [#1](https://github.com/7nohe/react-realtime-cursor/pull/1) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
-4. 💪 Opened PR [#1199](https://github.com/vuejs/vitepress/pull/1199) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+1. 🎉 Merged PR [#3](https://github.com/7nohe/react-realtime-cursor/pull/3) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+2. 💪 Opened PR [#3](https://github.com/7nohe/react-realtime-cursor/pull/3) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+3. 🎉 Merged PR [#2](https://github.com/7nohe/react-realtime-cursor/pull/2) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+4. 💪 Opened PR [#2](https://github.com/7nohe/react-realtime-cursor/pull/2) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
 <!--END_SECTION:activity-->
 
 ---
