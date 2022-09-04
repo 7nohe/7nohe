@@ -9,8 +9,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1249](https://github.com/vuejs/vitepress/issues/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
 2. 🗣 Commented on [#1249](https://github.com/vuejs/vitepress/issues/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-3. 💪 Opened PR [#1](https://github.com/7nohe/vitepress/pull/1) in [7nohe/vitepress](https://github.com/7nohe/vitepress)
-4. 🎉 Merged PR [#1](https://github.com/7nohe/openapi-react-query-codegen/pull/1) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🗣 Commented on [#1249](https://github.com/vuejs/vitepress/issues/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+4. 💪 Opened PR [#1](https://github.com/7nohe/vitepress/pull/1) in [7nohe/vitepress](https://github.com/7nohe/vitepress)
 <!--END_SECTION:activity-->
 
 ---
