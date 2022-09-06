@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1249](https://github.com/vuejs/vitepress/pull/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-2. ❌ Closed PR [#1249](https://github.com/vuejs/vitepress/pull/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-3. ❌ Closed PR [#1](https://github.com/7nohe/vitepress/pull/1) in [7nohe/vitepress](https://github.com/7nohe/vitepress)
-4. 🗣 Commented on [#1249](https://github.com/vuejs/vitepress/issues/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+1. 🎉 Merged PR [#2](https://github.com/7nohe/openapi-mock-json-generator/pull/2) in [7nohe/openapi-mock-json-generator](https://github.com/7nohe/openapi-mock-json-generator)
+2. 💪 Opened PR [#2](https://github.com/7nohe/openapi-mock-json-generator/pull/2) in [7nohe/openapi-mock-json-generator](https://github.com/7nohe/openapi-mock-json-generator)
+3. 🎉 Merged PR [#1](https://github.com/7nohe/openapi-mock-json-generator/pull/1) in [7nohe/openapi-mock-json-generator](https://github.com/7nohe/openapi-mock-json-generator)
+4. ❌ Reopened PR [#1249](https://github.com/vuejs/vitepress/pull/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
 <!--END_SECTION:activity-->
 
 ---
