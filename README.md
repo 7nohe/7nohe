@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1491](https://github.com/vuejs/vitepress/pull/1491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-2. ❌ Reopened PR [#1249](https://github.com/vuejs/vitepress/pull/1249) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-3. 🗣 Commented on [#1448](https://github.com/vuejs/vitepress/issues/1448) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-4. ❌ Closed PR [#1448](https://github.com/vuejs/vitepress/pull/1448) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+1. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+2. 💪 Opened PR [#15925](https://github.com/vuetifyjs/vuetify/pull/15925) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+3. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
 ---
