@@ -7,9 +7,9 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. 💪 Opened PR [#15925](https://github.com/vuetifyjs/vuetify/pull/15925) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-3. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1. 🎉 Merged PR [#20](https://github.com/7nohe/expo-wallet-app/pull/20) in [7nohe/expo-wallet-app](https://github.com/7nohe/expo-wallet-app)
+2. 🎉 Merged PR [#18](https://github.com/7nohe/react-native-sample-app/pull/18) in [7nohe/react-native-sample-app](https://github.com/7nohe/react-native-sample-app)
+3. 🎉 Merged PR [#19](https://github.com/7nohe/react-native-expo-typescript-tutorial/pull/19) in [7nohe/react-native-expo-typescript-tutorial](https://github.com/7nohe/react-native-expo-typescript-tutorial)
 4. 🗣 Commented on [#15861](https://github.com/vuetifyjs/vuetify/issues/15861) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
