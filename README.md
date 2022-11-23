@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/7nohe/laravel-typegen/pull/3) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#3](https://github.com/7nohe/laravel-typegen/pull/3) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 🎉 Merged PR [#13](https://github.com/7nohe/react-realtime-cursor/pull/13) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
-4. 💪 Opened PR [#13](https://github.com/7nohe/react-realtime-cursor/pull/13) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+1. 🎉 Merged PR [#4](https://github.com/7nohe/laravel-typegen/pull/4) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 💪 Opened PR [#4](https://github.com/7nohe/laravel-typegen/pull/4) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 🎉 Merged PR [#3](https://github.com/7nohe/laravel-typegen/pull/3) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. 💪 Opened PR [#3](https://github.com/7nohe/laravel-typegen/pull/3) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
