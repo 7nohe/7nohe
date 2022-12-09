@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/7nohe/laravel-typegen/pull/6) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 🎉 Merged PR [#30](https://github.com/7nohe/nestjs-graphql-example/pull/30) in [7nohe/nestjs-graphql-example](https://github.com/7nohe/nestjs-graphql-example)
-3. 🎉 Merged PR [#23](https://github.com/7nohe/expo-wallet-app/pull/23) in [7nohe/expo-wallet-app](https://github.com/7nohe/expo-wallet-app)
-4. 🎉 Merged PR [#22](https://github.com/7nohe/react-native-expo-typescript-tutorial/pull/22) in [7nohe/react-native-expo-typescript-tutorial](https://github.com/7nohe/react-native-expo-typescript-tutorial)
+1. 🎉 Merged PR [#6](https://github.com/7nohe/laravel-typegen/pull/6) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 💪 Opened PR [#6](https://github.com/7nohe/laravel-typegen/pull/6) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 🎉 Merged PR [#30](https://github.com/7nohe/nestjs-graphql-example/pull/30) in [7nohe/nestjs-graphql-example](https://github.com/7nohe/nestjs-graphql-example)
+4. 🎉 Merged PR [#23](https://github.com/7nohe/expo-wallet-app/pull/23) in [7nohe/expo-wallet-app](https://github.com/7nohe/expo-wallet-app)
 <!--END_SECTION:activity-->
 
 ---
