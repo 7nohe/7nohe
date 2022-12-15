@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/7nohe/laravel-typegen/pull/8) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#8](https://github.com/7nohe/laravel-typegen/pull/8) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 🎉 Merged PR [#7](https://github.com/7nohe/laravel-typegen/pull/7) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 💪 Opened PR [#7](https://github.com/7nohe/laravel-typegen/pull/7) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. 💪 Opened PR [#11367](https://github.com/vitejs/vite/pull/11367) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 🎉 Merged PR [#8](https://github.com/7nohe/laravel-typegen/pull/8) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 💪 Opened PR [#8](https://github.com/7nohe/laravel-typegen/pull/8) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. 🎉 Merged PR [#7](https://github.com/7nohe/laravel-typegen/pull/7) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
