@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/7nohe/openapi-react-query-codegen/issues/5) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 💪 Opened PR [#6](https://github.com/7nohe/openapi-react-query-codegen/pull/6) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#9](https://github.com/7nohe/laravel-typegen/pull/9) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 💪 Opened PR [#9](https://github.com/7nohe/laravel-typegen/pull/9) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 3. 🗣 Commented on [#5](https://github.com/7nohe/openapi-react-query-codegen/issues/5) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 💪 Opened PR [#11367](https://github.com/vitejs/vite/pull/11367) in [vitejs/vite](https://github.com/vitejs/vite)
+4. 💪 Opened PR [#6](https://github.com/7nohe/openapi-react-query-codegen/pull/6) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
