@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/chakrahq/react-native-side-menu/pull/3) in [chakrahq/react-native-side-menu](https://github.com/chakrahq/react-native-side-menu)
-2. 🎉 Merged PR [#9](https://github.com/7nohe/laravel-typegen/pull/9) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 💪 Opened PR [#9](https://github.com/7nohe/laravel-typegen/pull/9) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 🗣 Commented on [#5](https://github.com/7nohe/openapi-react-query-codegen/issues/5) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 💪 Opened PR [#8](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/8) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
+2. 💪 Opened PR [#7](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/7) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
+3. 💪 Opened PR [#6](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/6) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
+4. 💪 Opened PR [#3](https://github.com/chakrahq/react-native-side-menu/pull/3) in [chakrahq/react-native-side-menu](https://github.com/chakrahq/react-native-side-menu)
 <!--END_SECTION:activity-->
 
 ---
