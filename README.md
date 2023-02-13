@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/8) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
-2. 💪 Opened PR [#7](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/7) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
-3. 💪 Opened PR [#6](https://github.com/ChrisOh431/astro-remark-eleventy-image/pull/6) in [ChrisOh431/astro-remark-eleventy-image](https://github.com/ChrisOh431/astro-remark-eleventy-image)
-4. 💪 Opened PR [#3](https://github.com/chakrahq/react-native-side-menu/pull/3) in [chakrahq/react-native-side-menu](https://github.com/chakrahq/react-native-side-menu)
+1. 🎉 Merged PR [#3](https://github.com/7nohe/astro-remark-eleventy-image/pull/3) in [7nohe/astro-remark-eleventy-image](https://github.com/7nohe/astro-remark-eleventy-image)
+2. 💪 Opened PR [#3](https://github.com/7nohe/astro-remark-eleventy-image/pull/3) in [7nohe/astro-remark-eleventy-image](https://github.com/7nohe/astro-remark-eleventy-image)
+3. 🎉 Merged PR [#2](https://github.com/7nohe/astro-remark-eleventy-image/pull/2) in [7nohe/astro-remark-eleventy-image](https://github.com/7nohe/astro-remark-eleventy-image)
+4. 💪 Opened PR [#2](https://github.com/7nohe/astro-remark-eleventy-image/pull/2) in [7nohe/astro-remark-eleventy-image](https://github.com/7nohe/astro-remark-eleventy-image)
 <!--END_SECTION:activity-->
 
 ---
