@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/7nohe/laravel-typegen/pull/10) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#10](https://github.com/7nohe/laravel-typegen/pull/10) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 🗣 Commented on [#5](https://github.com/7nohe/openapi-react-query-codegen/issues/5) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 🎉 Merged PR [#6](https://github.com/7nohe/openapi-react-query-codegen/pull/6) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#15](https://github.com/7nohe/react-realtime-cursor/pull/15) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+2. 💪 Opened PR [#15](https://github.com/7nohe/react-realtime-cursor/pull/15) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+3. 🎉 Merged PR [#14](https://github.com/7nohe/react-realtime-cursor/pull/14) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
+4. 💪 Opened PR [#14](https://github.com/7nohe/react-realtime-cursor/pull/14) in [7nohe/react-realtime-cursor](https://github.com/7nohe/react-realtime-cursor)
 <!--END_SECTION:activity-->
 
 ---
