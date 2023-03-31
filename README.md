@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/7nohe/openapi-react-query-codegen/pull/13) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#13](https://github.com/7nohe/openapi-react-query-codegen/issues/13) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. ❗️ Closed issue [#10](https://github.com/7nohe/openapi-react-query-codegen/issues/10) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 🗣 Commented on [#8](https://github.com/7nohe/openapi-react-query-codegen/issues/8) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 💪 Opened PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 💪 Opened PR [#4145](https://github.com/BookStackApp/BookStack/pull/4145) in [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
+4. 🎉 Merged PR [#13](https://github.com/7nohe/openapi-react-query-codegen/pull/13) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
