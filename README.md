@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 💪 Opened PR [#4145](https://github.com/BookStackApp/BookStack/pull/4145) in [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
-4. 🎉 Merged PR [#13](https://github.com/7nohe/openapi-react-query-codegen/pull/13) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. ❗️ Closed issue [#1](https://github.com/7nohe/laravel-zodgen/issues/1) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+2. 🎉 Merged PR [#2](https://github.com/7nohe/laravel-zodgen/pull/2) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+3. 💪 Opened PR [#2](https://github.com/7nohe/laravel-zodgen/pull/2) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+4. 🎉 Merged PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
