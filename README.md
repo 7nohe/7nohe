@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/7nohe/laravel-zodgen/issues/1) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-2. 🎉 Merged PR [#2](https://github.com/7nohe/laravel-zodgen/pull/2) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-3. 💪 Opened PR [#2](https://github.com/7nohe/laravel-zodgen/pull/2) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-4. 🎉 Merged PR [#12](https://github.com/7nohe/laravel-typegen/pull/12) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. ❗️ Closed issue [#3](https://github.com/7nohe/laravel-zodgen/issues/3) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+2. 🎉 Merged PR [#4](https://github.com/7nohe/laravel-zodgen/pull/4) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+3. 💪 Opened PR [#4](https://github.com/7nohe/laravel-zodgen/pull/4) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+4. ❗️ Opened issue [#3](https://github.com/7nohe/laravel-zodgen/issues/3) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
 <!--END_SECTION:activity-->
 
 ---
