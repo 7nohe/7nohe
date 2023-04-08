@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/7nohe/laravel-zodgen/issues/3) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-2. 🎉 Merged PR [#4](https://github.com/7nohe/laravel-zodgen/pull/4) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-3. 💪 Opened PR [#4](https://github.com/7nohe/laravel-zodgen/pull/4) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-4. ❗️ Opened issue [#3](https://github.com/7nohe/laravel-zodgen/issues/3) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+1. 🎉 Merged PR [#15](https://github.com/7nohe/openapi-react-query-codegen/pull/15) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 💪 Opened PR [#15](https://github.com/7nohe/openapi-react-query-codegen/pull/15) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🎉 Merged PR [#14](https://github.com/7nohe/openapi-react-query-codegen/pull/14) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🗣 Commented on [#14](https://github.com/7nohe/openapi-react-query-codegen/issues/14) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
