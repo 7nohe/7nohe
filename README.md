@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/7nohe/openapi-react-query-codegen/pull/16) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#16](https://github.com/7nohe/openapi-react-query-codegen/issues/16) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🎉 Merged PR [#15](https://github.com/7nohe/openapi-react-query-codegen/pull/15) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 💪 Opened PR [#15](https://github.com/7nohe/openapi-react-query-codegen/pull/15) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#2](https://github.com/7nohe/pdf-paginator/pull/2) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+2. 💪 Opened PR [#2](https://github.com/7nohe/pdf-paginator/pull/2) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+3. 🎉 Merged PR [#1](https://github.com/7nohe/pdf-paginator/pull/1) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+4. 🗣 Commented on [#1](https://github.com/7nohe/pdf-paginator/issues/1) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
 <!--END_SECTION:activity-->
 
 ---
