@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/7nohe/laravel-typegen/issues/13) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 🗣 Commented on [#18](https://github.com/7nohe/openapi-react-query-codegen/issues/18) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🗣 Commented on [#19](https://github.com/7nohe/openapi-react-query-codegen/issues/19) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 🎉 Merged PR [#2](https://github.com/7nohe/pdf-paginator/pull/2) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+1. 🎉 Merged PR [#5](https://github.com/7nohe/laravel-zodgen/pull/5) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+2. 💪 Opened PR [#5](https://github.com/7nohe/laravel-zodgen/pull/5) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+3. ❗️ Opened issue [#14](https://github.com/7nohe/laravel-typegen/issues/14) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. ❗️ Opened issue [#13](https://github.com/7nohe/laravel-typegen/issues/13) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
