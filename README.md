@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/7nohe/laravel-zodgen/pull/6) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-2. 💪 Opened PR [#6](https://github.com/7nohe/laravel-zodgen/pull/6) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-3. 💪 Opened PR [#1537](https://github.com/inertiajs/inertia/pull/1537) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-4. 🎉 Merged PR [#15](https://github.com/7nohe/laravel-typegen/pull/15) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. 💪 Opened PR [#16](https://github.com/7nohe/laravel-typegen/pull/16) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 🎉 Merged PR [#8](https://github.com/7nohe/laravel-zodgen/pull/8) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+3. 💪 Opened PR [#8](https://github.com/7nohe/laravel-zodgen/pull/8) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+4. 🎉 Merged PR [#7](https://github.com/7nohe/laravel-zodgen/pull/7) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
 <!--END_SECTION:activity-->
 
 ---
