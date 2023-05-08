@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/7nohe/laravel-typegen/pull/17) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#17](https://github.com/7nohe/laravel-typegen/pull/17) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 🎉 Merged PR [#16](https://github.com/7nohe/laravel-typegen/pull/16) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 💪 Opened PR [#16](https://github.com/7nohe/laravel-typegen/pull/16) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. ❗️ Opened issue [#123](https://github.com/xiCO2k/laravel-vue-i18n/issues/123) in [xiCO2k/laravel-vue-i18n](https://github.com/xiCO2k/laravel-vue-i18n)
+2. 🎉 Merged PR [#17](https://github.com/7nohe/laravel-typegen/pull/17) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 💪 Opened PR [#17](https://github.com/7nohe/laravel-typegen/pull/17) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. 🎉 Merged PR [#16](https://github.com/7nohe/laravel-typegen/pull/16) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
