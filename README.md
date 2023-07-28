@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/7nohe/laravel-typegen/releases/tag/v0.5.0) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 🎉 Merged PR [#19](https://github.com/7nohe/laravel-typegen/pull/19) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 💪 Opened PR [#19](https://github.com/7nohe/laravel-typegen/pull/19) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 🎉 Merged PR [#18](https://github.com/7nohe/laravel-typegen/pull/18) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. ❗ Opened issue [#3818](https://github.com/react-native-elements/react-native-elements/issues/3818) in [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements)
+2. 🚀 Published release [v0.5.0](https://github.com/7nohe/laravel-typegen/releases/tag/v0.5.0) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 🎉 Merged PR [#19](https://github.com/7nohe/laravel-typegen/pull/19) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. 💪 Opened PR [#19](https://github.com/7nohe/laravel-typegen/pull/19) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 ---
