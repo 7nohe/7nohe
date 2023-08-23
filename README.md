@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.1.4](https://github.com/7nohe/react-native-typewriter-effect/releases/tag/v0.1.4) in [7nohe/react-native-typewriter-effect](https://github.com/7nohe/react-native-typewriter-effect)
-2. 🎉 Merged PR [#1](https://github.com/7nohe/react-native-typewriter-effect/pull/1) in [7nohe/react-native-typewriter-effect](https://github.com/7nohe/react-native-typewriter-effect)
-3. 💪 Opened PR [#1](https://github.com/7nohe/react-native-typewriter-effect/pull/1) in [7nohe/react-native-typewriter-effect](https://github.com/7nohe/react-native-typewriter-effect)
-4. 🚀 Published release [v0.1.3](https://github.com/7nohe/react-native-typewriter-effect/releases/tag/v0.1.3) in [7nohe/react-native-typewriter-effect](https://github.com/7nohe/react-native-typewriter-effect)
+1. 🗣 Commented on [#21](https://github.com/7nohe/openapi-react-query-codegen/issues/21#issuecomment-1687230209) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🚀 Published release [v0.4.1](https://github.com/7nohe/openapi-react-query-codegen/releases/tag/v0.4.1) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🗣 Commented on [#24](https://github.com/7nohe/openapi-react-query-codegen/issues/24#issuecomment-1687226955) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🎉 Merged PR [#23](https://github.com/7nohe/openapi-react-query-codegen/pull/23) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
