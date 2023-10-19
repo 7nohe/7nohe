@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/andrei-zgirvaci/expo-stable-diffusion/pull/7) in [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion)
-2. 🗣 Commented on [#7](https://github.com/andrei-zgirvaci/expo-stable-diffusion/pull/7#issuecomment-1691732998) in [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion)
-3. 🔒 Closed issue [#6](https://github.com/andrei-zgirvaci/expo-stable-diffusion/issues/6) in [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion)
-4. 🗣 Commented on [#6](https://github.com/andrei-zgirvaci/expo-stable-diffusion/issues/6#issuecomment-1691730848) in [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion)
+1. 🔒 Closed issue [#24](https://github.com/7nohe/openapi-react-query-codegen/issues/24) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🗣 Commented on [#27](https://github.com/7nohe/openapi-react-query-codegen/issues/27#issuecomment-1769683388) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🚀 Published release [v0.5.0](https://github.com/7nohe/openapi-react-query-codegen/releases/tag/v0.5.0) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🎉 Merged PR [#28](https://github.com/7nohe/openapi-react-query-codegen/pull/28) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
