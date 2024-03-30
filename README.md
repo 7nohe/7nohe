@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/7nohe/openapi-react-query-codegen/pull/40) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#40](https://github.com/7nohe/openapi-react-query-codegen/pull/40#issuecomment-2016494786) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🚀 Published release [v0.1.6](https://github.com/7nohe/laravel-zodgen/releases/tag/v0.1.6) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
-4. 🔒 Closed issue [#9](https://github.com/7nohe/laravel-zodgen/issues/9) in [7nohe/laravel-zodgen](https://github.com/7nohe/laravel-zodgen)
+1. 🎉 Merged PR [#47](https://github.com/7nohe/openapi-react-query-codegen/pull/47) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🗣 Commented on [#47](https://github.com/7nohe/openapi-react-query-codegen/pull/47#issuecomment-2027226279) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🗣 Commented on [#43](https://github.com/7nohe/openapi-react-query-codegen/pull/43#issuecomment-2027217661) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. ❌ Closed PR [#43](https://github.com/7nohe/openapi-react-query-codegen/pull/43) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
