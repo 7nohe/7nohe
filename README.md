@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#90](https://github.com/7nohe/openapi-react-query-codegen/issues/90) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🔒 Closed issue [#86](https://github.com/7nohe/openapi-react-query-codegen/issues/86) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🎉 Merged PR [#88](https://github.com/7nohe/openapi-react-query-codegen/pull/88) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 🎉 Merged PR [#93](https://github.com/7nohe/openapi-react-query-codegen/pull/93) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🔒 Closed issue [#91](https://github.com/7nohe/openapi-react-query-codegen/issues/91) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🎉 Merged PR [#92](https://github.com/7nohe/openapi-react-query-codegen/pull/92) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🔒 Closed issue [#90](https://github.com/7nohe/openapi-react-query-codegen/issues/90) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🔒 Closed issue [#86](https://github.com/7nohe/openapi-react-query-codegen/issues/86) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
