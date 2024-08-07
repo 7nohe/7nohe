@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#39](https://github.com/7nohe/laravel-typegen/issues/39) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 🎉 Merged PR [#40](https://github.com/7nohe/laravel-typegen/pull/40) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 🔒 Closed issue [#37](https://github.com/7nohe/laravel-typegen/issues/37) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 🎉 Merged PR [#38](https://github.com/7nohe/laravel-typegen/pull/38) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. 🗣 Commented on [#42](https://github.com/7nohe/openapi-react-query-codegen/issues/42#issuecomment-2271592523) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🗣 Commented on [#136](https://github.com/7nohe/openapi-react-query-codegen/pull/136#issuecomment-2271579899) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🎉 Merged PR [#122](https://github.com/7nohe/openapi-react-query-codegen/pull/122) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🗣 Commented on [#133](https://github.com/7nohe/openapi-react-query-codegen/issues/133#issuecomment-2271539418) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
