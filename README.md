@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/2) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-2. 💪 Opened PR [#2](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/2) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-3. 🗣 Commented on [#144](https://github.com/adonisjs/v6-docs/pull/144#issuecomment-2331934776) in [adonisjs/v6-docs](https://github.com/adonisjs/v6-docs)
-4. ❌ Closed PR [#144](https://github.com/adonisjs/v6-docs/pull/144) in [adonisjs/v6-docs](https://github.com/adonisjs/v6-docs)
+1. 🎉 Merged PR [#3](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/3) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
+2. 💪 Opened PR [#3](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/3) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
+3. 🎉 Merged PR [#2](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/2) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
+4. 💪 Opened PR [#2](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/2) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
 <!--END_SECTION:activity-->
 
 ---
