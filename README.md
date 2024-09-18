@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/7nohe/openapi-react-query-codegen/issues/123#issuecomment-2352286312) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#139](https://github.com/7nohe/openapi-react-query-codegen/issues/139#issuecomment-2352239764) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🗣 Commented on [#142](https://github.com/7nohe/openapi-react-query-codegen/issues/142#issuecomment-2352208529) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 🗣 Commented on [#141](https://github.com/7nohe/openapi-react-query-codegen/issues/141#issuecomment-2352208009) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 💪 Opened PR [#149](https://github.com/7nohe/openapi-react-query-codegen/pull/149) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🗣 Commented on [#87](https://github.com/adonisjs/session/pull/87#issuecomment-2355743907) in [adonisjs/session](https://github.com/adonisjs/session)
+3. 💪 Opened PR [#2](https://github.com/7nohe/adonisjs-session/pull/2) in [7nohe/adonisjs-session](https://github.com/7nohe/adonisjs-session)
+4. ❌ Closed PR [#1](https://github.com/7nohe/adonisjs-session/pull/1) in [7nohe/adonisjs-session](https://github.com/7nohe/adonisjs-session)
 <!--END_SECTION:activity-->
 
 ---
