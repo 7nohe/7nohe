@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/7nohe/openapi-react-query-codegen/pull/150#issuecomment-2372770235) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#133](https://github.com/7nohe/openapi-react-query-codegen/issues/133#issuecomment-2371241246) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 🗣 Commented on [#151](https://github.com/7nohe/openapi-react-query-codegen/pull/151#issuecomment-2371219549) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. 💪 Opened PR [#151](https://github.com/7nohe/openapi-react-query-codegen/pull/151) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#150](https://github.com/7nohe/openapi-react-query-codegen/pull/150) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🗣 Commented on [#150](https://github.com/7nohe/openapi-react-query-codegen/pull/150#issuecomment-2395621623) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🚀 Published release [v0.1.0](https://github.com/7nohe/adonis-typed-links/releases/tag/v0.1.0) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
+4. 🎉 Merged PR [#4](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/4) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
 <!--END_SECTION:activity-->
 
 ---
