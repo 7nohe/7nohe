@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/7nohe/openapi-react-query-codegen/pull/158#issuecomment-2399519726) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-2. 🗣 Commented on [#158](https://github.com/7nohe/openapi-react-query-codegen/pull/158#issuecomment-2399197707) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-3. 💪 Opened PR [#158](https://github.com/7nohe/openapi-react-query-codegen/pull/158) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
-4. ❌ Closed PR [#125](https://github.com/7nohe/openapi-react-query-codegen/pull/125) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🗣 Commented on [#159](https://github.com/7nohe/openapi-react-query-codegen/pull/159#issuecomment-2405303112) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 💪 Opened PR [#159](https://github.com/7nohe/openapi-react-query-codegen/pull/159) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🎉 Merged PR [#158](https://github.com/7nohe/openapi-react-query-codegen/pull/158) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🗣 Commented on [#158](https://github.com/7nohe/openapi-react-query-codegen/pull/158#issuecomment-2399519726) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
