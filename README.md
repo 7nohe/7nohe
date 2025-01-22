@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/5) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-2. 💪 Opened PR [#5](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/5) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-3. ❗ Opened issue [#42](https://github.com/7nohe/laravel-typegen/issues/42) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-4. 🎉 Merged PR [#167](https://github.com/7nohe/openapi-react-query-codegen/pull/167) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+1. 🎉 Merged PR [#151](https://github.com/7nohe/openapi-react-query-codegen/pull/151) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🎉 Merged PR [#149](https://github.com/7nohe/openapi-react-query-codegen/pull/149) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. ❗ Opened issue [#177](https://github.com/7nohe/openapi-react-query-codegen/issues/177) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🎉 Merged PR [#169](https://github.com/7nohe/openapi-react-query-codegen/pull/169) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
