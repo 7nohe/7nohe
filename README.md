@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/7nohe/adonis-typed-links/releases/tag/v1.0.1) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
-2. 🚀 Published release [v1.0.0](https://github.com/7nohe/adonis-typed-links/releases/tag/v1.0.0) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
-3. 🎉 Merged PR [#1](https://github.com/7nohe/adonis-typed-links/pull/1) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
-4. 💪 Opened PR [#1](https://github.com/7nohe/adonis-typed-links/pull/1) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
+1. 🚀 Published release [v1.0.2](https://github.com/7nohe/adonis-typed-links/releases/tag/v1.0.2) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
+2. 🚀 Published release [v1.0.1](https://github.com/7nohe/adonis-typed-links/releases/tag/v1.0.1) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
+3. 🚀 Published release [v1.0.0](https://github.com/7nohe/adonis-typed-links/releases/tag/v1.0.0) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
+4. 🎉 Merged PR [#1](https://github.com/7nohe/adonis-typed-links/pull/1) in [7nohe/adonis-typed-links](https://github.com/7nohe/adonis-typed-links)
 <!--END_SECTION:activity-->
 
 ---
