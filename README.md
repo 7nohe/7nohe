@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/adonisjs-community/adonis-packages/pull/114#issuecomment-2661670583) in [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages)
-2. ❌ Closed PR [#114](https://github.com/adonisjs-community/adonis-packages/pull/114) in [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages)
-3. 🗣 Commented on [#114](https://github.com/adonisjs-community/adonis-packages/pull/114#issuecomment-2661669656) in [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages)
-4. 🗣 Commented on [#114](https://github.com/adonisjs-community/adonis-packages/pull/114#issuecomment-2656743510) in [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages)
+1. 🗣 Commented on [#44](https://github.com/7nohe/laravel-typegen/issues/44#issuecomment-2676692326) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 🚀 Published release [v1.2.0](https://github.com/7nohe/pdf-paginator/releases/tag/v1.2.0) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+3. 🔒 Closed issue [#3](https://github.com/7nohe/pdf-paginator/issues/3) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
+4. 🎉 Merged PR [#4](https://github.com/7nohe/pdf-paginator/pull/4) in [7nohe/pdf-paginator](https://github.com/7nohe/pdf-paginator)
 <!--END_SECTION:activity-->
 
 ---
