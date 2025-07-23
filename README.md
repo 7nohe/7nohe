@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/7) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-2. 💪 Opened PR [#7](https://github.com/7nohe/adonisjs-v6-docs-ja/pull/7) in [7nohe/adonisjs-v6-docs-ja](https://github.com/7nohe/adonisjs-v6-docs-ja)
-3. 🎉 Merged PR [#2](https://github.com/7nohe/vite-plugin-openapi-typescript-codegen/pull/2) in [7nohe/vite-plugin-openapi-typescript-codegen](https://github.com/7nohe/vite-plugin-openapi-typescript-codegen)
-4. 🗣 Commented on [#44](https://github.com/7nohe/laravel-typegen/issues/44#issuecomment-2676692326) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. ❌ Closed PR [#1](https://github.com/7nohe/adonis-mcp/pull/1) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
+2. ❌ Closed PR [#3](https://github.com/7nohe/adonis-mcp/pull/3) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
+3. 🗣 Commented on [#2](https://github.com/7nohe/adonis-mcp/issues/2#issuecomment-3099908596) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
+4. 💪 Opened PR [#4](https://github.com/7nohe/adonis-mcp/pull/4) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
 <!--END_SECTION:activity-->
 
 ---
