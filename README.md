@@ -7,8 +7,8 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/7nohe/adonis-mcp/pull/1) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
-2. ❌ Closed PR [#3](https://github.com/7nohe/adonis-mcp/pull/3) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
+1. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
+2. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
 3. 🗣 Commented on [#2](https://github.com/7nohe/adonis-mcp/issues/2#issuecomment-3099908596) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
 4. 💪 Opened PR [#4](https://github.com/7nohe/adonis-mcp/pull/4) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
 <!--END_SECTION:activity-->
