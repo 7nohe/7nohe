@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
+1. 💪 Opened PR [#1202](https://github.com/langgenius/dify-plugins/pull/1202) in [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins)
 2. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
-3. 🗣 Commented on [#2](https://github.com/7nohe/adonis-mcp/issues/2#issuecomment-3099908596) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
-4. 💪 Opened PR [#4](https://github.com/7nohe/adonis-mcp/pull/4) in [7nohe/adonis-mcp](https://github.com/7nohe/adonis-mcp)
+3. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
+4. 🚀 Published release [v0.0.1](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.1) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
 <!--END_SECTION:activity-->
 
 ---
