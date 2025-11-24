@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
-2. ❌ Assigned PR [#4](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
-3. 🚀 Published release [v0.2.0-alpha.7](https://github.com/gurenjs/guren/releases/tag/v0.2.0-alpha.7) in [gurenjs/guren](https://github.com/gurenjs/guren)
-4. 🚀 Published release [v0.0.2](https://github.com/7nohe/dify-plugin-backlog/releases/tag/v0.0.2) in [7nohe/dify-plugin-backlog](https://github.com/7nohe/dify-plugin-backlog)
+1. 💪 Opened PR [#6](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
+2. ❌ Assigned PR [#6](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
+3. 💪 Opened PR [#5](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
+4. ❌ Assigned PR [#5](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
 <!--END_SECTION:activity-->
 
 ---
