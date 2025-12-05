@@ -7,10 +7,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#9](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
-2. 💪 Opened PR [#9](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
-3. ❌ Assigned PR [#9](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
-4. ❌ Merged PR [#8](undefined) in [gurenjs/guren](https://github.com/gurenjs/guren)
+1. ❌ Merged PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+2. 💪 Opened PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+3. ❌ Assigned PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+4. ❌ Merged PR [#3](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
 <!--END_SECTION:activity-->
 
 ---
