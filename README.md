@@ -3,10 +3,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1299](https://github.com/langgenius/dify-plugins/pull/1299#issuecomment-3615529472) in [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins)
-2. ❌ Merged PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
-3. 💪 Opened PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
-4. ❌ Assigned PR [#4](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+1. ❌ Merged PR [#7](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+2. ❌ Assigned PR [#7](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+3. 💪 Opened PR [#7](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
+4. ❌ Merged PR [#6](undefined) in [7nohe/figdeck](https://github.com/7nohe/figdeck)
 <!--END_SECTION:activity-->
 
 ---
