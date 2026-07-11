@@ -3,10 +3,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/FSoft-AI4Code/CodeWiki/pull/70) in [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki)
-2. 💪 Opened PR [#21](https://github.com/7nohe/confluence-md/pull/21) in [7nohe/confluence-md](https://github.com/7nohe/confluence-md)
-3. 💪 Opened PR [#20](https://github.com/7nohe/confluence-md/pull/20) in [7nohe/confluence-md](https://github.com/7nohe/confluence-md)
-4. 💪 Opened PR [#19](https://github.com/7nohe/confluence-md/pull/19) in [7nohe/confluence-md](https://github.com/7nohe/confluence-md)
+1. 🎉 Merged PR [#53](https://github.com/gurenjs/guren/pull/53) in [gurenjs/guren](https://github.com/gurenjs/guren)
+2. 💪 Opened PR [#53](https://github.com/gurenjs/guren/pull/53) in [gurenjs/guren](https://github.com/gurenjs/guren)
+3. 🚀 Published release [v1.0.0-rc.20](https://github.com/gurenjs/guren/releases/tag/v1.0.0-rc.20) in [gurenjs/guren](https://github.com/gurenjs/guren)
+4. 🎉 Merged PR [#52](https://github.com/gurenjs/guren/pull/52) in [gurenjs/guren](https://github.com/gurenjs/guren)
 <!--END_SECTION:activity-->
 
 ---
