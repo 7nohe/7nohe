@@ -3,10 +3,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#336](https://github.com/gurenjs/guren/pull/336) in [gurenjs/guren](https://github.com/gurenjs/guren)
-2. 🎉 Merged PR [#332](https://github.com/gurenjs/guren/pull/332) in [gurenjs/guren](https://github.com/gurenjs/guren)
-3. 🎉 Merged PR [#333](https://github.com/gurenjs/guren/pull/333) in [gurenjs/guren](https://github.com/gurenjs/guren)
-4. 🎉 Merged PR [#335](https://github.com/gurenjs/guren/pull/335) in [gurenjs/guren](https://github.com/gurenjs/guren)
+1. 🔒 Closed issue [#157](https://github.com/7nohe/openapi-react-query-codegen/issues/157) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+2. 🔒 Closed issue [#155](https://github.com/7nohe/openapi-react-query-codegen/issues/155) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+3. 🔒 Closed issue [#174](https://github.com/7nohe/openapi-react-query-codegen/issues/174) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
+4. 🔒 Closed issue [#156](https://github.com/7nohe/openapi-react-query-codegen/issues/156) in [7nohe/openapi-react-query-codegen](https://github.com/7nohe/openapi-react-query-codegen)
 <!--END_SECTION:activity-->
 
 ---
