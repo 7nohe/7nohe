@@ -3,10 +3,10 @@
 ### :koala: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.22.0](https://github.com/gurenjs/guren/releases/tag/v2.22.0) in [gurenjs/guren](https://github.com/gurenjs/guren)
-2. 🎉 Merged PR [#790](https://github.com/gurenjs/guren/pull/790) in [gurenjs/guren](https://github.com/gurenjs/guren)
-3. 💪 Opened PR [#790](https://github.com/gurenjs/guren/pull/790) in [gurenjs/guren](https://github.com/gurenjs/guren)
-4. 🎉 Merged PR [#789](https://github.com/gurenjs/guren/pull/789) in [gurenjs/guren](https://github.com/gurenjs/guren)
+1. 💪 Opened PR [#794](https://github.com/gurenjs/guren/pull/794) in [gurenjs/guren](https://github.com/gurenjs/guren)
+2. 💪 Opened PR [#793](https://github.com/gurenjs/guren/pull/793) in [gurenjs/guren](https://github.com/gurenjs/guren)
+3. 🎉 Merged PR [#786](https://github.com/gurenjs/guren/pull/786) in [gurenjs/guren](https://github.com/gurenjs/guren)
+4. 🎉 Merged PR [#783](https://github.com/gurenjs/guren/pull/783) in [gurenjs/guren](https://github.com/gurenjs/guren)
 <!--END_SECTION:activity-->
 
 ---
